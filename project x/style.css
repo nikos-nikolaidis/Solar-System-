@@ -1,0 +1,125 @@
+html{
+  scroll-behavior: smooth;
+}
+body
+{
+	color: yellow;
+   margin: 0;
+  padding: 0;
+ 
+}
+
+.gotopbtn{
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  background:;
+  bottom: 40px;
+  right: 50px;
+
+  text-decoration: none;
+  text-align: center;
+  line-height: 50px;
+  color: white;
+  font-size: 22px;
+}
+
+
+.class-color
+{
+	color: yellow; 
+}
+
+#box-for-plouto
+{
+
+  box-sizing: content-box;  
+  width: 210px;
+  height: 25px;
+  padding: 25px;  
+  border :3px solid yellow;
+}
+#box-for-Mercury
+{
+
+  box-sizing: content-box;  
+  width: 115px;
+  height: 20px;
+  padding: 25px;  
+  border :3px solid yellow;
+}
+#box-for-Sun
+{
+
+  box-sizing: content-box;  
+  width: 110px;
+  height: 20px;
+  padding: 25px;  
+  border :3px solid yellow;
+}
+
+#box-for-Venous
+{
+
+  box-sizing: content-box;  
+  width: 190px;
+  height: 25px;
+  padding: 25px;  
+  border :3px solid yellow;
+}
+#box-for-Earth
+{
+
+  box-sizing: content-box;  
+  width: 50px;
+  height: 25px;
+  padding: 25px;  
+  border :3px solid yellow;
+}
+#box-for-Mars
+{
+
+  box-sizing: content-box;  
+  width: 100px;
+  height: 25px;
+  padding: 25px;  
+  border :3px solid yellow;
+}
+#box-for-Jupiter{
+
+  box-sizing: content-box;  
+  width: 80px;
+  height: 25px;
+  padding: 25px;  
+  border :3px solid yellow;
+}
+#box-for-Santura{
+
+  box-sizing: content-box;  
+  width: 130px;
+  height: 25px;
+  padding: 25px;  
+  border :3px solid yellow;
+}
+#box-for-Uranus{
+
+  box-sizing: content-box;  
+  width: 155px;
+  height: 25px;
+  padding: 25px;  
+  border :3px solid yellow;
+}
+#box-for-Neptune{
+
+  box-sizing: content-box;  
+  width: 215px ;
+  height: 25px;
+  padding:25px;  
+  border :3px solid yellow;
+}
+
+.text-size
+{
+	font-size: 20px
+}
+
